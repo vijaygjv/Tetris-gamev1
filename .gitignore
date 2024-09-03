@@ -112,3 +112,10 @@ dist
 
 #Mac
 .DS_Store
+
+
+.scannerwork/
+dependency-check-report.xml
+node_modules/
+trivyfs.txt
+trivyimage.txt
